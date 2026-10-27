@@ -33,8 +33,6 @@ When using these data in publications, reports, or other research outputs, pleas
 
 ## Data Access and Repository Contents
 
-## Data Access and Repository Contents
-
 The dataset is formally published on Zenodo, which provides a permanent DOI, citation information, and dataset metadata. Due to the large size of the underlying files, the hydrological simulation outputs are hosted externally on the IIASA Accelerator.
 
 This GitHub repository hosts the HTML download interface, which provides a browsable representation of the dataset's folder structure and direct links to the individual data files.
