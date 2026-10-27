@@ -40,7 +40,7 @@ The dataset is formally published on Zenodo, which provides a permanent DOI, cit
 This GitHub repository hosts the HTML download interface, which provides a browsable representation of the dataset's folder structure and direct links to the individual data files.
 
 - **Zenodo dataset record (permanent DOI):** [https://doi.org/10.5281/zenodo.23581419](https://doi.org/10.5281/zenodo.23581419)
-- **Browse and download the data:** [ACCREU CWatM Data Access](https://iiasa.github.io/ACCREU_datasets/file_access)
+- **Browse and download the data:** [ACCREU CWatM Data Access](https://iiasa.github.io/ACCREU_datasets/cwatm/file_access)
 
 The folder structure below describes the organization of the underlying data on the IIASA Accelerator.
 
