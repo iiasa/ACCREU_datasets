@@ -13,13 +13,24 @@ The datasets are made available through three complementary resources:
 
 Each dataset has a dedicated folder in this repository, containing its documentation and a browsable interface for downloading the underlying files.
 
-## Available Datasets
+## Available Datasets through this Repository 
 
 | Dataset | Description | Documentation | Download Data | Zenodo Record |
 |---|---|---|---|---|
 | **CWatM RCP4.5 Hydrological Data** | Daily and monthly hydrological simulations, including runoff and river discharge under SSP2-4.5 (2015–2100). | [View documentation](cwatm/) | [Browse files](cwatm/file_access.html) | [Zenodo](https://doi.org/10.5281/zenodo.23581419) |
 
-Additional datasets will be added to this catalogue as they become available.
+### Other ACCREU Datasets
+
+The following ACCREU datasets are maintained in separate GitHub repositories. Their documentation and download interfaces provide access to the underlying data hosted on the IIASA Accelerator.
+
+| Dataset | Description | Dataset Access | GitHub Repository | Zenodo Record |
+|---|---|---|---|---|
+| **Cooling Cost Dataset** | Climate change impacts on residential cooling costs. | [Access dataset](https://giacfalk.github.io/ACCREU_cooling_cost_dataset/links_DT2.html) | [GitHub](https://github.com/giacfalk/ACCREU_cooling_cost_dataset) | [Zenodo](https://doi.org/10.5281/zenodo.23233429) |
+| **Labour Productivity Shock Dataset** | Climate-related labour productivity impacts. | [Access dataset](https://francescocolelli.github.io/ACCREU_Labour_Productivity_Shock_Dataset/links_DT3.html) | [GitHub](https://github.com/francescocolelli/ACCREU_Labour_Productivity_Shock_Dataset) | [Zenodo](https://doi.org/10.5281/zenodo.23390460) |
+| **Energy Demand Datasets** | Climate change impacts on energy demand and power generation. | [Access dataset](https://francescocolelli.github.io/ACCREU_energy_demand_datasets/links_DT1.html) | [GitHub](https://github.com/francescocolelli/ACCREU_energy_demand_datasets) | [Zenodo](https://doi.org/10.5281/zenodo.23390119) |
+| **Wildfire Climate Impact Data** | Wildfire burned-area simulations under historical and future climate conditions. | [Access dataset](https://ampalazzo.github.io/ACCREU_wildfire_datasets/links.html) | [GitHub](https://github.com/ampalazzo/ACCREU_wildfire_datasets) | [Zenodo](https://doi.org/10.5281/zenodo.22809595) |
+
+Additional ACCREU datasets will be added as they become available.
 
 ## How to Use the Datasets
 
