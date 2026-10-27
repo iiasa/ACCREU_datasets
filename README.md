@@ -23,7 +23,7 @@ The daily and monthly simualtions provide runoff and river flow data used be oth
 
 
 ## Repository Contents (Metadata only)
-This Zenodo record provides the documentation and persistent access point for the dataset. Due to the size of the underlying files, the data are hosted externally and can be accessed through the download links provided in the accompanying HTML file (file_access.html).
+This readme file provides the documentation for the dataset. Due to the size of the underlying files, the data are hosted externally and can be accessed through the download links: .
 ## Folder Structure (on Accelerator)
 ```text
 /cwatm_rcp245/
