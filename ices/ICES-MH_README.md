@@ -7,6 +7,8 @@ title: ICES-MH Distributional Impacts of Climate Change and Adaptation Dataset
 
 **Public Accelerator folder:** This file provides the documentation and persistent access point for the dataset. [ACCREU ICES-MH Data Access](https://iiasa.github.io/ACCREU_datasets/ices/ices-mh-file_access.html)
 
+**Permanent dataset record:** [Zenodo – ICES-MH Distributional Impacts of Climate Change and Adaptation Dataset](https://doi.org/10.5281/zenodo.23771290).
+
 ## Summary
 
 This dataset presents the distributional implications of climate change and adaptation in the European Union, assessed using the ICES-MH (ICES-MultiHousehold) computable general equilibrium model developed at CMCC.
