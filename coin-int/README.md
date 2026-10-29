@@ -1,4 +1,4 @@
-# ACCREU / COIN-INT Macroeconomic Impacts and Adaptation Scenarios Dataset
+# ACCREU / COIN-INT2.0 Macroeconomic and Fiscal Effects of Climate Impacts and Adaptation
 
 **Public Accelerator folder:** This file provides the documentation and persistent access point for the dataset. Due to the size of the underlying files, the data are hosted externally and can be accessed here: 
 [ACCREU COIN-INT Data Access](https://iiasa.github.io/ACCREU_datasets/coin-int/COIN_file_access)
@@ -17,7 +17,7 @@ documentation of COIN-INT model extensions within the ACCREU project](https://ii
 
 ## Citation
 
--Knittel, N., Lehner, A., Preinfalk, E., Bednar-Friedl B. (2026). COIN-INT2.0 Macroeconomic and Fiscal Effects of Climate Impacts and Adaptation - Results [Data set]. Zenodo. [To Add]
+-Knittel, N., Lehner, A., Preinfalk, E., Bednar-Friedl B. (2026). COIN-INT2.0 Macroeconomic and Fiscal Effects of Climate Impacts and Adaptation - Results [Data set]. Zenodo. [10.5281/zenodo.23765663](https://doi.org/10.5281/zenodo.23765663)
 
 When using these data in publications, reports, or other research outputs, please cite the Zenodo dataset record provided above. The GitHub repository and associated download interface are intended to facilitate access to the data and should not replace the formal dataset citation.
 
@@ -27,7 +27,7 @@ When using these data in publications, reports, or other research outputs, pleas
 The dataset is formally published on Zenodo, which provides a permanent DOI, citation information, and dataset metadata. 
 This GitHub repository hosts the HTML download interface, which provides a browsable representation of the dataset's folder structure and direct links to the individual data files.
 
-- **Zenodo dataset record (permanent DOI):** ADD
+- **Zenodo dataset record (permanent DOI):** [10.5281/zenodo.23765663](https://doi.org/10.5281/zenodo.23765663)
 - **Browse and download the data:** [ACCREU COIN-INT Data Access](https://iiasa.github.io/ACCREU_datasets/coin-int/COIN_file_access)
 
 The folder structure below describes the organization of the underlying data on the IIASA Accelerator.
@@ -70,12 +70,12 @@ The dataset is made available through three complementary resources:
 - **GitHub:** Hosts the HTML download interface (`COIN_file_access.html`) providing links to the individual data files.
 - **ACCREU Accelerator:** Hosts the underlying outputs.
 
-**Permanent dataset record:** [Zenodo – COIN-Int Macroeconomic Impacts and Adaptation Scenarios Dataset](ADD)
+**Permanent dataset record:** [Zenodo – COIN-INT2.0 Macroeconomic and Fiscal Effects of Climate Impacts and Adaptation](https://doi.org/10.5281/zenodo.23765663)
 
 ## Contact ##
 
 For questions regarding the dataset, please contact:
-Nina Knittel nina.knittel(a)uni-graz.at
+Nina Knittel nina.knittel(at)uni-graz.at
 
 ## Funding Acknowledgement ## 
 
