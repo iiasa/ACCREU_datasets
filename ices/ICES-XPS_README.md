@@ -2,7 +2,7 @@
 
 **Public Accelerator folder:** This file provides the documentation and persistent access point for the dataset. The underlying data are hosted externally and can be accessed here: [ACCREU ICES-XPS Data Access](https://iiasa.github.io/ACCREU_datasets/ices/ices-xps-file_access.html).
 
-**Permanent dataset record:** [Zenodo – ICES-XPS Macro-fiscal Implications of Climate Change and Adaptation Dataset](INSERT_ZENODO_DOI).
+**Permanent dataset record:** [Zenodo – ICES-XPS Macro-fiscal Implications of Climate Change and Adaptation Dataset](https://doi.org/10.5281/zenodo.23769839).
 
 ## Summary
 
@@ -24,7 +24,7 @@ Further information on the model is available in the [ICES-XPS model documentati
 
 **Citation:**
 
-Campagnolo, L. (2026). *ACCREU ICES-XPS Macro-fiscal Implications of Climate Change and Adaptation Dataset* [Dataset]. Zenodo. DOI to be assigned.
+Campagnolo, L. (2026). *ACCREU ICES-XPS Macro-fiscal Implications of Climate Change and Adaptation Dataset* [Dataset]. Zenodo. [10.5281/zenodo.23769839](https://doi.org/10.5281/zenodo.23769839).
 
 ## Scenario Coverage
 
@@ -97,13 +97,7 @@ The dataset is provided in csv format.
 
 **Dataset access:** [ACCREU ICES-XPS Data Access](https://iiasa.github.io/ACCREU_datasets/ices/ices-xps-file_access.html)
 
-**Permanent dataset record:** [Zenodo](INSERT_ZENODO_DOI)
-
-*The author list and suggested citation should be confirmed before publication.*
-
-## License
-
-To be confirmed.
+**Permanent dataset record:** [Zenodo](https://doi.org/10.5281/zenodo.23769839)
 
 ## Acknowledgements
 
