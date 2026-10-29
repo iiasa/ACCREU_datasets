@@ -23,7 +23,7 @@ Further information on the model is available at [ICES Model](https://www.icesmo
 
 ## Citation
 
-[To ADD]
+Campagnolo, L. (2026). ICES-MH Distributional Impacts of Climate Change and Adaptation Dataset [Dataset]. Zenodo. [10.5281/zenodo.23771290](https://doi.org/10.5281/zenodo.23771290).
 
 When using these data in publications, reports, or other research outputs, please cite the Zenodo dataset record provided above. The GitHub repository and associated download interface are intended to facilitate access to the data and should not replace the formal dataset citation.
 
@@ -32,7 +32,7 @@ When using these data in publications, reports, or other research outputs, pleas
 The dataset is formally published on Zenodo, which provides a permanent DOI, citation information, and dataset metadata. 
 This GitHub repository hosts the HTML download interface, which provides a browsable representation of the dataset's folder structure and direct links to the individual data files.
 
-- **Zenodo dataset record (permanent DOI):** ADD
+- **Zenodo dataset record (permanent DOI):** [Zenodo](https://doi.org/10.5281/zenodo.23771290)
 - **Browse and download the data:** [ACCREU ICES-MH Data Access](https://iiasa.github.io/ACCREU_datasets/ices/ices-mh-file-access)
 
 The folder structure below describes the organization of the underlying data on the IIASA Accelerator.
@@ -70,7 +70,7 @@ The dataset is made available through three complementary resources:
 - **GitHub:** Hosts the HTML download interface (`ices-mh-file_access.html`) providing links to the individual data files.
 - **ACCREU Accelerator:** Hosts the underlying outputs.
 
-**Permanent dataset record:** [Zenodo – ICES-MH Distributional Impacts of Climate Change and Adaptation Dataset](ADD)
+**Permanent dataset record:** [Zenodo – ICES-MH Distributional Impacts of Climate Change and Adaptation Dataset](https://doi.org/10.5281/zenodo.23771290)
 
 ## Contact ##
 
