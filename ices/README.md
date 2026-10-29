@@ -4,8 +4,8 @@ This directory contains documentation for two datasets produced using the ICES m
 
 ## Available Datasets
 
-- [ICES-MH Distributional Climate Impact Data](https://iiasa.github.io/ACCREU_datasets/ices/ICES-MH_README.md)
-- [ICES-XPS Macro-Fiscal Climate Impact Data](https://iiasa.github.io/ACCREU_datasets/ices/ICES-XPS_README.md)
+- [ICES-MH Distributional Climate Impact Data](https://iiasa.github.io/ACCREU_datasets/ices/ICES-MH_README.html)
+- [ICES-XPS Macro-Fiscal Climate Impact Data](https://iiasa.github.io/ACCREU_datasets/ices/ICES-XPS_README.html)
 
 Each dataset has its own documentation, metadata, and Zenodo record.
 
