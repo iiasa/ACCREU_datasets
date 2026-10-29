@@ -1,7 +1,7 @@
 # ACCREU / COIN-INT Macroeconomic Impacts and Adaptation Scenarios Dataset
 
 **Public Accelerator folder:** This file provides the documentation and persistent access point for the dataset. Due to the size of the underlying files, the data are hosted externally and can be accessed here: 
-[ACCREU COIN-INT Data Access](https://iiasa.github.io/ACCREU_datasets/COIN-INT/COIN_file_access)
+[ACCREU COIN-INT Data Access](https://iiasa.github.io/ACCREU_datasets/coin-int/COIN_file_access)
 
 ## Summary
 
@@ -20,7 +20,7 @@ The dataset is formally published on Zenodo, which provides a permanent DOI, cit
 This GitHub repository hosts the HTML download interface, which provides a browsable representation of the dataset's folder structure and direct links to the individual data files.
 
 - **Zenodo dataset record (permanent DOI): ADD** 
-- **Browse and download the data:** 
+- **Browse and download the data:[ACCREU COIN-INT Data Access](https://iiasa.github.io/ACCREU_datasets/coin-int/COIN_file_access) ** 
 
 The folder structure below describes the organization of the underlying data on the IIASA Accelerator.
 
