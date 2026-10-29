@@ -27,8 +27,8 @@ When using these data in publications, reports, or other research outputs, pleas
 The dataset is formally published on Zenodo, which provides a permanent DOI, citation information, and dataset metadata. 
 This GitHub repository hosts the HTML download interface, which provides a browsable representation of the dataset's folder structure and direct links to the individual data files.
 
-- **Zenodo dataset record (permanent DOI): ADD** 
-- **Browse and download the data:[ACCREU COIN-INT Data Access](https://iiasa.github.io/ACCREU_datasets/coin-int/COIN_file_access) ** 
+- **Zenodo dataset record (permanent DOI):** ADD
+- **Browse and download the data:** [ACCREU COIN-INT Data Access](https://iiasa.github.io/ACCREU_datasets/coin-int/COIN_file_access)
 
 The folder structure below describes the organization of the underlying data on the IIASA Accelerator.
 
