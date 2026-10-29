@@ -60,7 +60,7 @@ The folder structure below describes the organization of the underlying data on 
 └── ACCREU_ICES_MH_D4.2_MetaData-CMCC.csv              # Dataset metadata and documentation
 ```
 
-The `CMCC_ICES/` directory contains one Excel file presenting ICES-MH distributional impacts and adaptation scenarios. 
+The `CMCC_ICES/` directory contains one Excel file presenting ICES-MH distributional impacts and adaptation scenarios and one metadata file in csv format. 
 
 ## Data Access and Availability
 
