@@ -17,8 +17,8 @@ Each dataset has a dedicated folder in this repository, containing its documenta
 
 | Dataset | Description | Documentation | Download Data | Zenodo Record |
 |---|---|---|---|---|
-| **CWatM RCP4.5 Hydrological Data** | Daily and monthly hydrological simulations, including runoff and river discharge under SSP2-4.5 (2015–2100). | [View documentation](cwatm/) | [Access dataset](cwatm/file_access.html) | [Zenodo](https://doi.org/10.5281/zenodo.23581419) |
-| **COIN-INT Climate Impact Data** | Climate change impact data produced through the COIN-INT modelling framework for ACCREU. | [View documentation](coin-int/ACCREU_COIN_documentation.pdf) [View README](coin-int/) | [Access dataset](coin-int/COIN_file_access.html) | [Zenodo](https://doi.org/10.5281/zenodo.23765663) |
+| **CWatM RCP4.5 Hydrological Data** | Daily and monthly hydrological simulations, including runoff and river discharge under SSP2-4.5 (2015–2100). | [View documentation](https://iiasa.github.io/ACCREU_datasets/cwatm/) | [Access dataset](https://iiasa.github.io/ACCREU_datasets/cwatm/file_access.html) | [Zenodo](https://doi.org/10.5281/zenodo.23581419) |
+| **COIN-INT Climate Impact Data** | Climate change impact data produced through the COIN-INT modelling framework for ACCREU. | [View documentation](https://iiasa.github.io/ACCREU_datasets/coin-int/ACCREU_COIN_documentation.pdf) [View README](https://iiasa.github.io/ACCREU_datasets/coin-int/) | [Access dataset](https://iiasa.github.io/ACCREU_datasets/coin-int/COIN_file_access.html) | [Zenodo](https://doi.org/10.5281/zenodo.23765663) |
 
 ### Other ACCREU Datasets
 
