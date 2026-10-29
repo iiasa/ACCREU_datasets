@@ -1,6 +1,6 @@
 # ACCREU / ICES-XPS Macro-fiscal Implications of Climate Change and Adaptation Dataset
 
-**Public Accelerator folder:** This file provides the documentation and persistent access point for the dataset. The underlying data are hosted externally and can be accessed here: [ACCREU ICES-XPS Data Access](INSERT_DATA_ACCESS_LINK).
+**Public Accelerator folder:** This file provides the documentation and persistent access point for the dataset. The underlying data are hosted externally and can be accessed here: [ACCREU ICES-XPS Data Access](https://iiasa.github.io/ACCREU_datasets/ices/ices-xps-file_access.html).
 
 **Permanent dataset record:** [Zenodo – ICES-XPS Macro-fiscal Implications of Climate Change and Adaptation Dataset](INSERT_ZENODO_DOI).
 
@@ -21,6 +21,10 @@ The analysis uses ICES-XPS (ICES-eXtended Public Sector), an extension of the IC
 The model provides an integrated representation of economic sectors and public finances, allowing the assessment of how climate-related impacts propagate through the economy and affect government revenues, investment, and debt.
 
 Further information on the model is available in the [ICES-XPS model documentation](https://www.icesmodel.org/public-sector/).
+
+**Citation:**
+
+Campagnolo, L. (2026). *ACCREU ICES-XPS Macro-fiscal Implications of Climate Change and Adaptation Dataset* [Dataset]. Zenodo. DOI to be assigned.
 
 ## Scenario Coverage
 
@@ -72,7 +76,7 @@ The dataset includes the following macroeconomic, fiscal, and sector-specific va
 
 ## Data Format
 
-The dataset is provided in CSV format.
+The dataset is provided in csv format.
 
 ## File Structure
 
@@ -81,8 +85,6 @@ The dataset is provided in CSV format.
 ├── ACCREU_ICES_XPS_D4.3_results.csv       # ICES-XPS macro-fiscal results
 └── ACCREU_ICES_XPS_D4.3_MetaData-CMCC.csv  # Dataset metadata and documentation
 ```
-
-*Note: The results filename and final folder structure should be updated to match the published files.*
 
 ## Authors and Contact
 
@@ -93,13 +95,9 @@ The dataset is provided in CSV format.
 
 ## Data Access and Citation
 
-**Dataset access:** [ACCREU ICES-XPS Data Access](INSERT_DATA_ACCESS_LINK)
+**Dataset access:** [ACCREU ICES-XPS Data Access](https://iiasa.github.io/ACCREU_datasets/ices/ices-xps-file_access.html)
 
 **Permanent dataset record:** [Zenodo](INSERT_ZENODO_DOI)
-
-**Suggested citation:**
-
-Campagnolo, L. (2026). *ACCREU ICES-XPS Macro-fiscal Implications of Climate Change and Adaptation Dataset* [Dataset]. Zenodo. DOI to be assigned.
 
 *The author list and suggested citation should be confirmed before publication.*
 
