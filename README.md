@@ -19,6 +19,8 @@ Each dataset has a dedicated folder in this repository, containing its documenta
 |---|---|---|---|---|
 | **CWatM RCP4.5 Hydrological Data** | Daily and monthly hydrological simulations, including runoff and river discharge under SSP2-4.5 (2015–2100). | [View documentation](https://iiasa.github.io/ACCREU_datasets/cwatm/) | [Access dataset](https://iiasa.github.io/ACCREU_datasets/cwatm/file_access.html) | [Zenodo](https://doi.org/10.5281/zenodo.23581419) |
 | **COIN-INT Climate Impact Data** | Climate change impact data produced through the COIN-INT modelling framework for ACCREU. | [View documentation](https://iiasa.github.io/ACCREU_datasets/coin-int/ACCREU_COIN_documentation.pdf) [View README](https://iiasa.github.io/ACCREU_datasets/coin-int/) | [Access dataset](https://iiasa.github.io/ACCREU_datasets/coin-int/COIN_file_access.html) | [Zenodo](https://doi.org/10.5281/zenodo.23765663) |
+| **ICES-MH Distributional Climate Impact Data** | Distributional impacts of climate change and adaptation on household income across EU countries and income quintiles (2020–2070). | [View documentation](INSERT_DOCUMENTATION_URL) | [Access dataset](INSERT_DATA_URL) | [Zenodo](INSERT_ZENODO_DOI) |
+| **ICES-XPS Macro-Fiscal Climate Impact Data** | Macroeconomic and fiscal impacts of climate change and adaptation, including GDP, government revenue, investment and public debt (2020–2070). | [View documentation](INSERT_DOCUMENTATION_URL) | [Access dataset](INSERT_DATA_URL) | [Zenodo](INSERT_ZENODO_DOI) |
 
 ### Other ACCREU Datasets
 
