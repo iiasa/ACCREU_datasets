@@ -1,3 +1,8 @@
+---
+layout: default
+title: ICES-MH Distributional Impacts of Climate Change and Adaptation Dataset
+---
+
 # ACCREU / ICES-MH Distributional Impacts of Climate Change and Adaptation Dataset
 
 **Public Accelerator folder:** This file provides the documentation and persistent access point for the dataset. [ACCREU ICES-MH Data Access](https://iiasa.github.io/ACCREU_datasets/ices/ices-mh-file_access.html)
