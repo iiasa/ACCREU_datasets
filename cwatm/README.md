@@ -1,6 +1,6 @@
 # ACCREU / CWatM RCP4.5 Hydrological Data – Daily and Monthly Outputs 
 
-**Public Accelerator folder:** This Zenodo record provides the documentation and persistent access point for the dataset. Due to the size of the underlying files, the data are hosted externally and can be accessed through the download links provided in the accompanying HTML file (file_access.html).
+**Public Accelerator folder:** This file provides the documentation and persistent access point for the dataset. Due to the size of the underlying files, the data are hosted externally and can be accessed here: [ACCREU CWatM Data Access](https://iiasa.github.io/ACCREU_datasets/cwatm/file_access)
 
 ## Summary
 CWatM is a spatially distributed rainfall-runoff and channel routing water resources model (Burek et al., 2020). 
