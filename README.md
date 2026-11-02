@@ -1,12 +1,12 @@
 # ACCREU Datasets
 
-This repository provides access to datasets produced and made available through the **ACCREU (Assessing Climate Change Risk in Europe)** project. It serves as a central catalogue for accessing project datasets hosted on the IIASA Accelerator, with links to dataset documentation, download interfaces, and permanent Zenodo records.
+This repository provides access to datasets produced and made available through the **ACCREU (Assessing Climate Change Risk in Europe)** project. It serves as a central catalog for accessing project datasets hosted on the IIASA Accelerator, with links to dataset documentation, download interfaces, and permanent Zenodo records.
 
 ## Data Access and Availability
 
 The datasets are made available through three complementary resources:
 
-- **IIASA Data Catalogue**: Provides a central platform for discovering IIASA datasets and accessing their metadata and associated resources [Data Catalogue](https://iiasa.github.io/ACCREU/).
+- **IIASA Data Catalog**: Provides a central platform for discovering IIASA datasets and accessing their metadata and associated resources [Data Catalog](https://iiasa.github.io/ACCREU/).
 - **Zenodo:** Provides the permanent dataset records, DOIs, citation information, and metadata.
 - **GitHub:** Hosts dataset documentation and HTML download interfaces, providing links to individual data files.
 - **IIASA Accelerator:** Hosts the underlying simulation outputs and data files, which are too large to store directly on Zenodo or GitHub.
