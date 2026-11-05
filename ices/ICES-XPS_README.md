@@ -10,7 +10,7 @@ This dataset presents the macroeconomic and fiscal implications of climate chang
 
 The analysis considers seven climate impacts: sea-level rise, riverine floods, agriculture, pollination, wildfires, heat-related health and heat-related labor productivity and supply. Adaptation includes planned public adaptation, with implications for public budgets and investment, and private adaptation, such as energy use for cooling and heating. Results are reported for three adaptation levels.
 
-The dataset provides estimates of changes in gross domestic product (GDP), government income, government investment and public debt. Results are expressed as percentage changes relative to the no climate change scenario (NO_CC).
+The dataset provides estimates of changes in gross domestic product (GDP), government income, government investment and public debt. Results are expressed as percentage changes relative to the no climate change scenario (NO_CC). For a detailed description of the model extensions, refer to the [Technical documentation of ICES-XPS model extensions within the ACCREU project](https://iiasa.github.io/ACCREU_datasets/ices/ICES-XPS_Database_Update_and_Modeling_of_Climate_Impact_and_Adaptation_Channels_for_the_ACCREU_Project.pdf).
 
 ## Model and Methodology
 
